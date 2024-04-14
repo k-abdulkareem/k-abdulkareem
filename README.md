@@ -1,7 +1,6 @@
 - 👋 Hi, I’m kholoud Abdulkareem
 - 👀 I’m interested in .NET Technology
-- 🌱 I’m currently learning Blazor
-- 📫 How to reach me , mail me at kholoud-19@outlook.com
+- 📫 How to reach me , mail me at kholoud.abdlkareem@gmail.com
 
 <!---
 k-abdulkareem/k-abdulkareem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
